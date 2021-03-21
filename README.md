@@ -23,17 +23,14 @@
   ![график 2.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_lossstep.svg)
   
 
+***Случай экспоненциального затухания ***
+    
+  ![график 3.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracyexp.svg)
   
-  ***Следующие графики были получены после изменения кода.***
+  ![график 3.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_lossexp.svg)
+  
 
-  
-  *Визуализация метрики качества.*
-   
-  ![график 2.1]()
-  
-  *Функция потерь*
-   
-  ![график 2.2]()
+
   
   
   
