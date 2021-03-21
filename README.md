@@ -12,9 +12,12 @@
   
 
   
-  
+![фикс](https://github.com/YurchenokMaxim/lab3/blob/main/%D1%84%D0%B8%D0%BA%D1%81.png)
+
+График с коэффициентом 0.1 имеет точность выше, а потери меньше.
   
   ***график точности для фиксированного темпа обучения***
+  
   
   ![график 1.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracyp.svg)
   
