@@ -45,12 +45,13 @@
 ***Случай экспоненциального затухания***
 
 ![эксп](https://github.com/YurchenokMaxim/lab3/blob/main/%D1%8D%D0%BA%D1%81%D0%BF.png)
-
-  ***график точности для экспоненциального затухания*******
   
   Функция этого затухания выглядит так:
 
-  
+  ![экспф](https://github.com/YurchenokMaxim/lab3/blob/main/%D1%8D%D0%BA%D1%81%D0%BF%D1%84.png)
+
+  ***график точности для экспоненциального затухания*******
+
   ![график 3.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracye.svg)
   
   ***график потерь для экспоненциального затухания*******
