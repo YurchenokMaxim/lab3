@@ -18,16 +18,16 @@
   ***Случай пошагового затухания ***
   
     
-  ![график 2.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracystep.svg)
+  ![график 2.1]()
   
-  ![график 2.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_lossstep.svg)
+  ![график 2.2]()
   
 
 ***Случай экспоненциального затухания ***
     
-  ![график 3.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracyexp.svg)
+  ![график 3.1]()
   
-  ![график 3.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_lossexp.svg)
+  ![график 3.2]()
   
 
 
