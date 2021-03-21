@@ -10,7 +10,15 @@
 
   ***Случай фиксированных темпов обучения***
   
+
+  
+  
+  
+  ***график точности для фиксированного темпа обучения***
+  
   ![график 1.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracyp.svg)
+  
+   ***график потерь для фиксированного темпа обучения***
   
   ![график 1.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_lossp.svg)
   
@@ -18,14 +26,23 @@
   ***Случай пошагового затухания ***
   
     
+ ***график точности для пошагового обучения***
+      
   ![график 2.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracy_s.svg)
+  
+  ***график потерь для пошагового обучения***
   
   ![график 2.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_loss_s.svg)
   
 
 ***Случай экспоненциального затухания ***
+
+
+  ***график точности для экспоненциального затухания*******
     
   ![график 3.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracye.svg)
+  
+  ***график потерь для экспоненциального затухания*******
   
   ![график 3.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_losse.svg)
   
