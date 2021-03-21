@@ -30,8 +30,5 @@
   ![график 3.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_losse.svg)
   
 
-
-  
-  
   
   ***Анализ данных.***
