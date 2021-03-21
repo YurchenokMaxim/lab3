@@ -10,9 +10,9 @@
 
   ***Случай фиксированных темпов обучения***
   
-  ![график 1.1()
+  ![график 1.1(https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracyp.svg)
   
-  ![график 1.2]()
+  ![график 1.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_lossp.svg)
   
   
   
