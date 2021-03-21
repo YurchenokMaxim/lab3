@@ -32,12 +32,12 @@
    
    ![пошаг](https://github.com/YurchenokMaxim/lab3/blob/main/%D1%88%D0%B0%D0%B3.png)
    
-  1.ц
-  2.2
-  3.2
-  4.2
-  5.2
-  6.2
+  1. drop= 0.5 и epoch_ drops= 10 тренировка
+  2. drop= 0.5 и epoch_ drops= 10 валидация
+  3. drop= 0.2 и epoch_ drops= 2 тренировка
+  4. drop= 0.2 и epoch_ drops= 2 валидация
+  5. drop= 0.4 и epoch_ drops= 4 тренировка
+  6. drop= 0.4 и epoch_ drops= 4 валидация
     
  ***график точности для пошагового обучения***
       
