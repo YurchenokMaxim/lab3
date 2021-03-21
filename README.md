@@ -47,6 +47,13 @@
 ![эксп](https://github.com/YurchenokMaxim/lab3/blob/main/%D1%8D%D0%BA%D1%81%D0%BF.png)
 
   ***график точности для экспоненциального затухания*******
+  
+  Функция этого затухания выглядит так:
+def exp_decay(epoch):
+  initial_lrate =0.1
+  k =0.9
+  lrate = initial_lrate * exp(-k*epoch)
+  return lrate
     
   ![график 3.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracye.svg)
   
