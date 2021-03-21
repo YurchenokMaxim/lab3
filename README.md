@@ -30,6 +30,8 @@
   
     
  ***график точности для пошагового обучения***
+ 
+ ![пошаг](https://github.com/YurchenokMaxim/lab3/blob/main/%D1%88%D0%B0%D0%B3.png)
       
   ![график 2.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracy_s.svg)
   
