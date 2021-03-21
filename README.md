@@ -38,7 +38,7 @@
   ![график 2.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_loss_s.svg)
   
 
-***Случай экспоненциального затухания ***
+***Случай экспоненциального затухания***
 
 ![эксп](https://github.com/YurchenokMaxim/lab3/blob/main/%D1%8D%D0%BA%D1%81%D0%BF.png)
 
