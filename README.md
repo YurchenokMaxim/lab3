@@ -15,10 +15,14 @@
   ![график 1.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_lossp.svg)
   
   
-  
   ***Случай пошагового затухания ***
   
-  **   **
+    
+  ![график 2.1](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_categorical_accuracystep.svg)
+  
+  ![график 2.2](https://github.com/YurchenokMaxim/lab3/blob/main/epoch_lossstep.svg)
+  
+
   
   ***Следующие графики были получены после изменения кода.***
 
